@@ -18,7 +18,6 @@ python Report_AfibDetect.py
 ## 📌 Future
 Machine Learning version planned in `ml_model.py`
 
-```
 ## 🖥️ System Interface Preview
 Below is the GUI interface of the atrial fibrillation (AFib) detection system.
 
